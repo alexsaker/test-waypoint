@@ -84,8 +84,8 @@ app "example-nodejs" {
 waypoint init
 waypoint up
 ```
-If displyed url is not good, you can refer to the logs to point you to the error.
-Otherwise you can check the url on the container instances page @ https://portal.Azure.com
+If displayed url is not good, you can refer to the logs to point you to the error.
+Otherwise you can check the url on the container instances page @ https://portal.azure.com
 
 
 ## clean up
